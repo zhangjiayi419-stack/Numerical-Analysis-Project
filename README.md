@@ -6,3 +6,4 @@ Interpolation Algorithms: Comparison of Lagrange, Newton, and Cubic Spline inter
 Numerical Integration: Construction and evaluation of two-point quadrature formulas, including specialized Gauss-Legendre and weighted Jacobi integration.
 Root-finding Methods: Evaluation of convergence efficiency and reliability for the Bisection method, Newton's method, and the Secant method.
 Numerical Solutions for ODEs: Investigation of stiffness in differential equations by comparing the stability and accuracy of explicit methods (e.g., Modified Euler) versus A-stable implicit methods (e.g., Trapezoidal rule).
+Read the file with link:https://drive.google.com/file/d/1h6rT5LmvMTl1TPdTYtV791vjjIU0KiLS/view?usp=share_link
